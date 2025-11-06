@@ -1,4 +1,6 @@
-// Oefening 1: Voetbal uitslagen 
+// Oefening 1: Tijdstip van laden
+
+// Oefening 2: Voetbal uitslagen 
 
 
 
